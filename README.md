@@ -1,1 +1,1 @@
-# 2d-cricket-game
+Cricket-2d Game is a fun and interactive web-based game where users can play against the computer using three choices: Bat, Ball, and Stump. The game tracks the user's and computer's choices and displays results, including the score.
